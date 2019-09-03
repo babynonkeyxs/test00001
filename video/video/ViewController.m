@@ -33,7 +33,7 @@ typedef NS_ENUM(NSInteger, PlayerState) {
 
 @property(strong,nonatomic)PlayerProgressView *progressView;
 
-/*播放器啊*/
+/*播放器*/
 @property(nonatomic,strong)AVPlayer *player;
 
 /**playerLayer*/
